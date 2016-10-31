@@ -1,4 +1,4 @@
-package com.smartphire.model.webapp;
+package com.smartphire.webapp;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
